@@ -261,3 +261,11 @@ https://codebasics.io/panel/webinars/purchases
 https://www.sqlbi.com/learn/introducing-dax-video-course/0/
 
 https://dev.mysql.com/doc/
+
+## 💬 Feedback and Questions
+
+If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at [yashgs97312@gmail.com].
+
+Thank you for exploring the ICC Men's T20 World Cup 2022 Analysis Project! We hope you find it useful and informative.
+
+Happy Analyzing!
