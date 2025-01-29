@@ -234,16 +234,16 @@ Shows visualizations from Sales insights :
 
 | Key Insights |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0001](https://user-images.githubusercontent.com/118357991/234025264-f5f1d7af-2ead-4d9a-b8ae-7524d200b7dd.jpg)|
+|![Sales Insights data analysis-AtliQ_page-0001](https://github.com/Yashwanth-GS/Sales_Insights_Data_Analytics_Project_AtliQ_Hardware/blob/3a10723bee91b84407af5e2855f211b0883f4e25/Screenshots/Screenshot%202025-01-29%20203451.png)|
 
 
 | Profit Analysis |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0002](https://user-images.githubusercontent.com/118357991/234025629-3c2e3dcf-77fb-4c20-acdb-3f92604d1292.jpg)|
+|![Sales Insights data analysis-AtliQ_page-0002](https://github.com/Yashwanth-GS/Sales_Insights_Data_Analytics_Project_AtliQ_Hardware/blob/3a10723bee91b84407af5e2855f211b0883f4e25/Screenshots/Screenshot%202025-01-29%20203548.png)|
 
 | Profit Analysis |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0003](https://user-images.githubusercontent.com/118357991/234025913-3a09f076-e1c7-40a1-9983-d2c8767f252c.jpg)|
+|![Sales Insights data analysis-AtliQ_page-0003](https://github.com/Yashwanth-GS/Sales_Insights_Data_Analytics_Project_AtliQ_Hardware/blob/3a10723bee91b84407af5e2855f211b0883f4e25/Screenshots/Screenshot%202025-01-29%20203620.png)|
 
 ## Tools, Software and Libraries :
 
